@@ -7,3 +7,6 @@
 - HTTP redirection
 - Not found HTTP response code
 - Logs files on Linux
+
+## To install nginx web server
+- -y on apt-get command
